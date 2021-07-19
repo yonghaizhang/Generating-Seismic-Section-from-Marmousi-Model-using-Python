@@ -4,4 +4,7 @@ https://wiki.seg.org/wiki/AGL_Elastic_Marmousi
 
 One can also use the models come with this notebook.
 
-The 
+The project is based on the online prject by [Ryan A. Mardani](https://towardsdatascience.com/generating-synthetic-seismogram-in-python-519f23f07894):
+https://towardsdatascience.com/generating-synthetic-seismogram-in-python-519f23f07894
+
+
